@@ -7,7 +7,7 @@
   (title_block
     (title "MrJ-Train-Signals-DCC-PCB")
     (date "2024-11-15")
-    (rev "v2.0")
+    (rev "v1.0")
     (comment 1 "Custom PCB designed to work with")
     (comment 2 "https://github.com/HO44-PROJECT/MrJ-HO-scale-DB-style-Era-III-Train-Signals-Electronics")
     (comment 3 "This PCB needs a Nano to drive my Train Signals")
