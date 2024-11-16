@@ -1,0 +1,5 @@
+*.kicad_prl
+design/nano_signals-backups
+fabrication-toolkit-options.json
+fp-info-cache
+design/production
